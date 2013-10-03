@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Dijkstra's Algorithm For EMF Models
+Bundle-SymbolicName: at.ac.big.tuwien.dijkstra4emf
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: www.big.tuwien.ac.at
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Require-Bundle: org.eclipse.emf.ecore;bundle-version="2.9.1";visibility:=reexport
+Export-Package: at.ac.big.tuwien.dijkstra4emf
